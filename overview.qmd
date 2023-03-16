@@ -1,0 +1,5 @@
+---
+title: "Palaeoverse: Workshop and Hackathon"
+---
+
+Course content goes here
