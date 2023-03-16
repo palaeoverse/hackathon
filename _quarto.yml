@@ -6,16 +6,14 @@ website:
   page-navigation: true
   title: "R for Palaeobiologists"
   description: "Palaeoverse: Workshop and Hackathon - University College London, Autumn 2023"
-  site-url: "https://hackathon.palaeoverse.org"
-  repo-url: "https://github.com/palaeoverse-community/hackathon"
+  site-url: https://hackathon.palaeoverse.org
+  repo-url: https://github.com/palaeoverse-community/hackathon/
   repo-actions: [edit, issue]
-
   open-graph: true
-
   twitter-card:
     creator: "@LewisAlanJones"
+    site: "@ThePalaeoverse"
     image: "images/twitter-card.png"
-
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, Lewis A. Jones"
