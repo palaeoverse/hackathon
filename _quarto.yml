@@ -7,8 +7,7 @@ website:
   title: "R for Palaeobiologists"
   description: "Palaeoverse: Workshop and Hackathon - University College London, Autumn 2023"
   site-url: "https://hackathon.palaeoverse.org"
-
-  repo-url: https://hackathon.palaeoverse.org
+  repo-url: "https://github.com/palaeoverse-community/hackathon"
   repo-actions: [edit, issue]
 
   open-graph: true
