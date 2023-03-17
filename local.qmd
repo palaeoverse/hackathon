@@ -13,3 +13,4 @@ This is the space for local information
 # Attractions
 
 Testing Github Actions auto-render
+Sofia's testing
