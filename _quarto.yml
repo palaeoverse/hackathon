@@ -28,6 +28,9 @@ website:
       - icon: github
         href: https://github.com/palaeoverse-community
         text: "GitHub organization"
+      - icon: twitter
+        href: https://twitter.com/ThePalaeoverse
+        text: "Twitter"
 
     style: "docked"
     search: true

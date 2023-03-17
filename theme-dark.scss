@@ -5,14 +5,15 @@
 $font-family: "Atkinson Hyperlegible", sans-serif;
 
 // Base document colors
-$body-bg: #181818;
+$body-bg: #303030;
 $body-color: white;
-$link-color: #75AADB;
+$link-color: #ed4d7e;
+$border-color: #181818;
 
 $light: #525252;
 
 // Navigation element colors
-$footer-bg: #181818;
+$footer-bg: #303030;
 $navbar-bg: #303030;
 $sidebar-bg: #303030;
 
@@ -30,28 +31,4 @@ $input-bg: #242424;
 
 .layout-example {
   background: $gray-700;
-}
-
-.render-commit-push {
-  padding: 0.5em 0.5em 0em 3em;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  background: #181818 5px center/3em no-repeat;
-  border-top: 1px solid #adadad;
-  border-bottom: 1px solid #adadad;
-  background-image: url("images/render-commit-push.png");
-  background-size: 2em;
-  background-position: 0.5em 0.5em;
-}
-
-.pull {
-  padding: 0.5em 0.5em 0em 3em;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  background: #181818 5px center/3em no-repeat;
-  border-top: 1px solid #adadad;
-  border-bottom: 1px solid #adadad;
-  background-image: url("images/pull.png");
-  background-size: 2em;
-  background-position: 0.5em 0.5em;
 }
