@@ -1,1 +1,1 @@
-Sitemap: https://hackathon.palaeoverse.org/sitemap.xml
+Sitemap: https://palaeoverse-community.github.io/hackathon/sitemap.xml
