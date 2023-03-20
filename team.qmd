@@ -1,0 +1,23 @@
+---
+title: "Team"
+fig-align: left
+fig-width: 1
+---
+
+Meet the event organisers
+
+::: {layout-nrow=2}
+
+![Dr Lewis A. Jones, Universidade de Vigo](./images/team/Lewis.jpg)
+
+![Dr Bethany J. Allen, ETH Zürich](./images/team/Bethany.jpeg)
+
+![Dr Christopher D. Dean, University College London](./images/team/Chris.jpeg)
+
+![Dr Kilian Eichenseer, University of Durham](./images/team/Kilian.jpeg)
+
+![Cecily Nicholl, University College London](./images/team/Cecily.png)
+
+![Sofía Galván, Universidade de Vigo](./images/team/Sofia.jpeg)
+
+:::

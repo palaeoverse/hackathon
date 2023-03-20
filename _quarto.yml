@@ -17,6 +17,8 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, Lewis A. Jones"
+    center: Sponsored by the [Palaeontological Association](https://www.palass.org) and <br>
+              the [Paleontological Society](https://www.paleosoc.org)
     background: "lightgrey"
 
   sidebar:
@@ -40,6 +42,8 @@ website:
         contents:
           - href: overview.qmd
             text: Overview
+          - href: team.qmd
+            text: Team
       - section: "Day 1"
         contents:
           - href: day-one.qmd
@@ -48,10 +52,12 @@ website:
         contents:
           - href: day-two.qmd
             text: Day Two
-      - section: "Useful information"
-        contents:
-          - href: local.qmd
-            text: Local Information
+      - href: location.qmd
+        text: Getting Here
+      - href: food.qmd
+        text: Food and Drink
+      - href: entertainment.qmd
+        text: Entertainment
       - href: conduct.qmd
         text: Code of Conduct
 

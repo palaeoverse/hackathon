@@ -1,4 +1,15 @@
 ---
-title: "Palaeoverse: Workshop and Hackathon"
+title: "R for Palaeobiologists: Workshop and Hackathon"
 ---
-7--8^th^ September 2023, University College London
+
+7--8^th^ September 2023, [Kathleen Lonsdale Building, University College London](https://goo.gl/maps/CseD7br5SF9xLEQE6)
+
+# Welcome
+
+# Schedule
+
+# Sponsors
+
+This event is sponsored by the [Palaeontological Association](https://www.palass.org) through a Grant-in-Aid (PA-GA202203) and the [Paleontological Society](https://www.paleosoc.org) through a small conference support grant.
+
+![](images/palass-logo.jpg){height="2cm"} ![](images/palsoc-logo.png){height="2cm"}
