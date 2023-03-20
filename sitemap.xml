@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hackathon.palaeoverse.org/day-two.html</loc>
-    <lastmod>2023-03-20T14:57:36.732Z</lastmod>
-  </url>
-  <url>
     <loc>https://hackathon.palaeoverse.org/accommodation.html</loc>
-    <lastmod>2023-03-20T14:57:37.828Z</lastmod>
+    <lastmod>2023-03-20T15:39:07.507Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/conduct.html</loc>
-    <lastmod>2023-03-20T14:57:38.280Z</lastmod>
+    <lastmod>2023-03-20T15:39:09.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/workshop.html</loc>
+    <lastmod>2023-03-20T15:39:10.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/hackathon.html</loc>
+    <lastmod>2023-03-20T15:39:10.383Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/team.html</loc>
-    <lastmod>2023-03-20T14:57:38.664Z</lastmod>
+    <lastmod>2023-03-20T15:39:10.727Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/entertainment.html</loc>
-    <lastmod>2023-03-20T14:57:39.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hackathon.palaeoverse.org/day-one.html</loc>
-    <lastmod>2023-03-20T14:57:39.376Z</lastmod>
+    <lastmod>2023-03-20T15:39:11.103Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/food.html</loc>
-    <lastmod>2023-03-20T14:57:39.776Z</lastmod>
+    <lastmod>2023-03-20T15:39:11.467Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/overview.html</loc>
-    <lastmod>2023-03-20T14:57:40.144Z</lastmod>
+    <lastmod>2023-03-20T15:39:11.795Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/location.html</loc>
-    <lastmod>2023-03-20T14:57:40.520Z</lastmod>
+    <lastmod>2023-03-20T15:39:12.183Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/local.html</loc>
-    <lastmod>2023-03-20T14:57:40.892Z</lastmod>
+    <lastmod>2023-03-20T15:39:12.543Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/index.html</loc>
-    <lastmod>2023-03-20T14:57:41.252Z</lastmod>
+    <lastmod>2023-03-20T15:39:12.911Z</lastmod>
   </url>
 </urlset>

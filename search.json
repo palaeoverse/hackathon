@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "day-two.html",
-    "href": "day-two.html",
-    "title": "Day 2",
-    "section": "",
-    "text": "Day 2 content goes here"
-  },
-  {
     "objectID": "conduct.html",
     "href": "conduct.html",
     "title": "Code of Conduct",
@@ -56,6 +49,20 @@
     "text": "Attribution\n\nThis Code of Conduct is adapted from the Contributor Covenant.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder."
   },
   {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "Workshop content goes here"
+  },
+  {
+    "objectID": "hackathon.html",
+    "href": "hackathon.html",
+    "title": "Hackathon",
+    "section": "",
+    "text": "Hackathon content goes here"
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
@@ -75,13 +82,6 @@
     "title": "Entertainment",
     "section": "Things to do in the immediate area",
     "text": "Things to do in the immediate area\n\nUCL’s Grant Museum of Zoology (1–5pm Tues to Fri) – a five-minute walk from the workshop, this little museum hosts thousands of Zoological specimens in cabinets and jars. Highlights include the Micrarium and the (in)famous Jar of Moles.\nGreen Spaces – Head just a few minutes away from Euston Road and you’ll find a variety of green spaces perfect for a short stroll, reading a book, or a picnic. Close to UCL you can find Gordon Square, Tavistock Square Gardens, and Russell Square. For a larger space, we’d recommend the trip to Regent’s Park, home to London Zoo.\nWellcome Collection (10am–6pm) – Located opposite the Kathleen Lonsdale Building, the Wellcome Collection hosts a series of rotating exhibitions focused on science, medicine, life, and art. Apparently there’s a lovely library open to everyone too!"
-  },
-  {
-    "objectID": "day-one.html",
-    "href": "day-one.html",
-    "title": "Day 1",
-    "section": "",
-    "text": "Day 1 content goes here"
   },
   {
     "objectID": "food.html",
