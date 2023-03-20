@@ -54,6 +54,8 @@ website:
             text: Day Two
       - href: location.qmd
         text: Getting Here
+      - href: accommodation.qmd
+        text: Accommodation
       - href: food.qmd
         text: Food and Drink
       - href: entertainment.qmd
