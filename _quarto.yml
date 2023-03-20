@@ -44,14 +44,14 @@ website:
             text: Overview
           - href: team.qmd
             text: Team
-      - section: "Day 1"
+      - section: "Workshop"
         contents:
-          - href: day-one.qmd
-            text: Day One
-      - section: "Day 2"
+          - href: workshop.qmd
+            text: Workshop
+      - section: "Hackathon"
         contents:
-          - href: day-two.qmd
-            text: Day Two
+          - href: hackathon.qmd
+            text: Hackathon
       - href: location.qmd
         text: Getting Here
       - href: accommodation.qmd

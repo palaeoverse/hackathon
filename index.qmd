@@ -1,5 +1,6 @@
 ---
 title: "R for Palaeobiologists: Workshop and Hackathon"
+toc: false
 ---
 
 7--8^th^ September 2023, [Kathleen Lonsdale Building, University College London](https://goo.gl/maps/CseD7br5SF9xLEQE6)

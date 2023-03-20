@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "hackathon.html",
+    "href": "hackathon.html",
+    "title": "Hackathon",
+    "section": "",
+    "text": "Hackathon content goes here"
+  },
+  {
     "objectID": "overview.html",
     "href": "overview.html",
     "title": "Palaeoverse: Workshop and Hackathon",
     "section": "",
     "text": "Course content goes here\nThis is a test of github actions!"
-  },
-  {
-    "objectID": "day-two.html",
-    "href": "day-two.html",
-    "title": "Day 2",
-    "section": "",
-    "text": "Day 2 content goes here"
   },
   {
     "objectID": "entertainment.html",
@@ -26,6 +26,13 @@
     "title": "Entertainment",
     "section": "Things to do in the immediate area",
     "text": "Things to do in the immediate area\n\nUCL’s Grant Museum of Zoology (1–5pm Tues to Fri) – a five-minute walk from the workshop, this little museum hosts thousands of Zoological specimens in cabinets and jars. Highlights include the Micrarium and the (in)famous Jar of Moles.\nGreen Spaces – Head just a few minutes away from Euston Road and you’ll find a variety of green spaces perfect for a short stroll, reading a book, or a picnic. Close to UCL you can find Gordon Square, Tavistock Square Gardens, and Russell Square. For a larger space, we’d recommend the trip to Regent’s Park, home to London Zoo.\nWellcome Collection (10am–6pm) – Located opposite the Kathleen Lonsdale Building, the Wellcome Collection hosts a series of rotating exhibitions focused on science, medicine, life, and art. Apparently there’s a lovely library open to everyone too!"
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "Workshop content goes here"
   },
   {
     "objectID": "team.html",
@@ -54,13 +61,6 @@
     "title": "Food and drink",
     "section": "On Campus",
     "text": "On Campus\nUCL’s cafes all serve a similar selection of hot and cold drinks, sandwiches, salads, and microwaveable meals averaging around £5–6. All of those listed here are within 3-4 minutes of the Kathleen Lonsdale Building, and are open from 8am onwards.\nThe main canteen (Wilkins Terrace and Lower Refectory) is open throughout the day, and offers a variety of cooked meals costing around £5–7.\n\nGeorge Farha Café (8am–6pm) – the neighbour to the Kathleen Lonsdale Building\nPrint Room Café (8am–8pm) – perhaps the nicest setting if the sun’s out as there’s seating in a nice courtyard. As well as the usual sandwiches and salads, this café also serves a few cooked options such as pasta dishes.\nGordon’s Café (8am–7pm) – Similar to George Farha, but with the bonus addition of pizza!\nWilkins Terrace and Lower Refectory (8–10:30am, 11:30am–7pm) – located on the lower level of campus, the canteen houses 3 or 4 different outlets selling a variety of cooked dishes."
-  },
-  {
-    "objectID": "day-one.html",
-    "href": "day-one.html",
-    "title": "Day 1",
-    "section": "",
-    "text": "Day 1 content goes here"
   },
   {
     "objectID": "location.html",
