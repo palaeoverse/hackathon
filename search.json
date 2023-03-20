@@ -56,6 +56,27 @@
     "text": "Attribution\n\nThis Code of Conduct is adapted from the Contributor Covenant.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder."
   },
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Meet the event organisers\n\n\n\n\n\n\nDr Lewis A. Jones, Universidade de Vigo\n\n\n\n\n\n\n\nDr Bethany J. Allen, ETH Zürich\n\n\n\n\n\n\n\nDr Christopher D. Dean, University College London\n\n\n\n\n\n\n\n\n\nDr Kilian Eichenseer, University of Durham\n\n\n\n\n\n\n\nCecily Nicholl, University College London\n\n\n\n\n\n\n\nSofía Galván, Universidade de Vigo"
+  },
+  {
+    "objectID": "entertainment.html",
+    "href": "entertainment.html",
+    "title": "Entertainment",
+    "section": "",
+    "text": "Prince of Wales Feathers – bustling pub with a roof terrace perfect for a summer’s eve!\nSmuggler’s Tavern – A cosy, nautical themed pub serving some very decent pizzas. On the second Friday of every month, the tavern has a karaoke night. We’re still unsure whether this is a good or bad thing. Probably both.\nCarpenter’s Arms – Cosy and slightly off the beaten track so doesn’t get busy too quickly.\nLore of the Land – A very appealing wood panelled pub with a fancy restaurant upstairs. They win the award for the best smelling hand sanitizer."
+  },
+  {
+    "objectID": "entertainment.html#things-to-do-in-the-immediate-area",
+    "href": "entertainment.html#things-to-do-in-the-immediate-area",
+    "title": "Entertainment",
+    "section": "Things to do in the immediate area",
+    "text": "Things to do in the immediate area\n\nUCL’s Grant Museum of Zoology (1–5pm Tues to Fri) – a five-minute walk from the workshop, this little museum hosts thousands of Zoological specimens in cabinets and jars. Highlights include the Micrarium and the (in)famous Jar of Moles.\nGreen Spaces – Head just a few minutes away from Euston Road and you’ll find a variety of green spaces perfect for a short stroll, reading a book, or a picnic. Close to UCL you can find Gordon Square, Tavistock Square Gardens, and Russell Square. For a larger space, we’d recommend the trip to Regent’s Park, home to London Zoo.\nWellcome Collection (10am–6pm) – Located opposite the Kathleen Lonsdale Building, the Wellcome Collection hosts a series of rotating exhibitions focused on science, medicine, life, and art. Apparently there’s a lovely library open to everyone too!"
+  },
+  {
     "objectID": "day-one.html",
     "href": "day-one.html",
     "title": "Day 1",
@@ -63,11 +84,39 @@
     "text": "Day 1 content goes here"
   },
   {
+    "objectID": "food.html",
+    "href": "food.html",
+    "title": "Food and drink",
+    "section": "",
+    "text": "UCL benefits very heavily from its central London location, and is only a short walk, bus, or tube away from areas such as Soho, Covent Garden, Islington, and Camden. For the closest lunch or dinner options within around five minutes of campus, we recommend the following:\n\nBloomsbury Farmers’ Market (Thursday only) – a big favourite with everybody in the office. Taking place in Torrington Square from around 12–2pm every Thursday, there are usually over 20 stalls selling a huge range of cuisines. Prices generally fall just under <£10.\nRoti King – very tasty Malaysian and Singaporean street food. You can’t book here, and queues often form outside if you want a table, but it’s worth it. You can pre-order and collect, or they will also deliver to UCL. Prices for main dishes range from £5–10.\nNoodle & Snack 面道坊 - amazing handmade noodles and broths! The restaurant is small, and it can get very busy around lunch and dinner if you’re hoping to sit in, but they also do takeaway. A main and a side should cost £10–20.\nFranco Manca – Good quality sourdough pizzas for <£10. Both eat in and takeaway options are available.\nRosa’s Thai – A large selection of tasty Thai dishes with a sizeable number of vegetarian and vegan options. Lunch will likely cost £10–20 per person. Eat in and takeaway options are available.\nMestizo – delicious Mexican food with a large number of items on the menu. Expect a meal for one to cost around £20."
+  },
+  {
+    "objectID": "food.html#on-campus",
+    "href": "food.html#on-campus",
+    "title": "Food and drink",
+    "section": "On Campus",
+    "text": "On Campus\nUCL’s cafes all serve a similar selection of hot and cold drinks, sandwiches, salads, and microwaveable meals averaging around £5–6. All of those listed here are within 3-4 minutes of the Kathleen Lonsdale Building, and are open from 8am onwards.\nThe main canteen (Wilkins Terrace and Lower Refectory) is open throughout the day, and offers a variety of cooked meals costing around £5–7.\n\nGeorge Farha Café (8am–6pm) – the neighbour to the Kathleen Lonsdale Building\nPrint Room Café (8am–8pm) – perhaps the nicest setting if the sun’s out as there’s seating in a nice courtyard. As well as the usual sandwiches and salads, this café also serves a few cooked options such as pasta dishes.\nGordon’s Café (8am–7pm) – Similar to George Farha, but with the bonus addition of pizza!\nWilkins Terrace and Lower Refectory (8–10:30am, 11:30am–7pm) – located on the lower level of campus, the canteen houses 3 or 4 different outlets selling a variety of cooked dishes."
+  },
+  {
     "objectID": "overview.html",
     "href": "overview.html",
     "title": "Palaeoverse: Workshop and Hackathon",
     "section": "",
     "text": "Welcome\nCourse content goes here\nThis is a test of github actions!"
+  },
+  {
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Getting here",
+    "section": "",
+    "text": "The event is hosted within the Kathleen Lonsdale Building at University College London\nThe nearest major stations to the UCL campus are Euston and King’s Cross St. Pancras. The Kathleen Lonsdale Building is a relatively short walk from both stations (7 and 15 minutes respectively). Alternatively, Buses 30, 73, and 205 run along Euston Road between the Kathleen Lonsdale Building and King’s Cross St Pancras.\nThe closest tube stations to UCL are:\n\nWarren Street – Victoria Line - Northern Line\nEuston Square – Circle Line - Hammersmith & City Line - Metropolitan Line\nRussell Square – Piccadilly Line\n\nWe highly recommend downloading the Citymapper app if you intend on travelling around London!"
+  },
+  {
+    "objectID": "location.html#finding-the-workshop-and-hackathon",
+    "href": "location.html#finding-the-workshop-and-hackathon",
+    "title": "Getting here",
+    "section": "Finding the Workshop and Hackathon",
+    "text": "Finding the Workshop and Hackathon\nThe event will be held in the same room within the Kathleen Lonsdale Building. To enter the building, you can either use steps from Gower Pl, or by ramp through the eastern entrance via UCL’s main quad on Gower Street (see map for both). We will be working in Teaching Lab 1 (126) on the 1st floor of the Kathleen Lonsdale Building (signs will be in place upon arrival). Both stairs and an elevator can be accessed from the main lobby area near to the Deinonychus mount. Once on the first floor, take a left from the elevator or a right from the top of the stairs, before following the corridor all the way to its end!\nClick here for an interactive map or see map below."
   },
   {
     "objectID": "local.html",
@@ -79,8 +128,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Palaeoverse: Workshop and Hackathon",
+    "title": "R for Palaeobiologists: Workshop and Hackathon",
     "section": "",
-    "text": "7–8th September 2023, University College London"
+    "text": "7–8th September 2023, Kathleen Lonsdale Building, University College London\n\nWelcome\n\n\nSchedule\n\n\nSponsors\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
   }
 ]
