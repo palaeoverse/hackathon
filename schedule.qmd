@@ -4,7 +4,7 @@ title: "Schedule"
 
 | Time      | Day 1 (September 7^th^)                           | Day 2 (September 8^th^) |
 |-----------|---------------------------------------------------|-------------------------|
-| **09:00** | **Tea and Coffee** ☕                               **Tea and Coffee** ☕   |
+| **09:00** | **Tea and Coffee** ☕                              | **Tea and Coffee** ☕   |
 | **09:30** | **Welcome and Introduction to Palaeoverse**       | **Hackathon**           |
 | **10:00** | **Theory: Data acquisition/cleaning**             | **Hackathon**           |
 | **10:30** | **Practical: Data acquisition/cleaning**          | **Hackathon**           |
