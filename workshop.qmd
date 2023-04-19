@@ -1,5 +1,0 @@
----
-title: "Workshop"
----
-
-Workshop content goes here

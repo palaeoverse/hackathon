@@ -10,15 +10,14 @@ website:
   repo-url: https://github.com/palaeoverse-community/hackathon/
   repo-actions: [edit, issue]
   open-graph: true
-  twitter-card:
-    creator: "@LewisAlanJones"
-    site: "@ThePalaeoverse"
-    image: "images/twitter-card.png"
+  twitter-card: true
+  image: "/images/twitter-card.png"
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, Lewis A. Jones"
-    center: Sponsored by the [Palaeontological Association](https://www.palass.org) and <br>
-              the [Paleontological Society](https://www.paleosoc.org)
+    center: |
+      Sponsored by the [Palaeontological Association](https://www.palass.org) and <br>
+      the [Paleontological Society](https://www.paleosoc.org)
     background: "lightgrey"
 
   sidebar:
@@ -38,20 +37,30 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - section: "Course information"
-        contents:
-          - href: overview.qmd
-            text: Overview
-          - href: team.qmd
-            text: Team
+      - href: index.qmd
+        text: Overview
+      - href: schedule.qmd
+        text: Schedule
+      - href: team.qmd
+        text: Organising Team
       - section: "Workshop"
         contents:
-          - href: workshop.qmd
-            text: Workshop
+          - href: acquisition.qmd
+            text: Data acquisition
+          - href: preparation.qmd
+            text: Data preparation
+          - href: visualisation.qmd
+            text: Data visualisation
+          - href: functions.qmd
+            text: Writing functions
+          - href: resources.qmd
+            text: Resources
       - section: "Hackathon"
         contents:
-          - href: hackathon.qmd
-            text: Hackathon
+          - href: challenges.qmd
+            text: Challenges
+          - href: presentations.qmd
+            text: Presentations
       - href: location.qmd
         text: Getting Here
       - href: accommodation.qmd

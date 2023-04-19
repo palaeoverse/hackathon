@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "acquisition.html",
+    "href": "acquisition.html",
+    "title": "Data acquisition and cleaning",
+    "section": "",
+    "text": "Data acquisition and cleaning content goes here"
+  },
+  {
     "objectID": "hackathon.html",
     "href": "hackathon.html",
     "title": "Hackathon",
@@ -7,11 +14,11 @@
     "text": "Hackathon content goes here"
   },
   {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "Palaeoverse: Workshop and Hackathon",
+    "objectID": "visualisation.html",
+    "href": "visualisation.html",
+    "title": "Data visualisation",
     "section": "",
-    "text": "Course content goes here\nThis is a test of github actions!"
+    "text": "Data visualisation content goes here"
   },
   {
     "objectID": "entertainment.html",
@@ -28,25 +35,39 @@
     "text": "Things to do in the immediate area\n\nUCL’s Grant Museum of Zoology (1–5pm Tues to Fri) – a five-minute walk from the workshop, this little museum hosts thousands of Zoological specimens in cabinets and jars. Highlights include the Micrarium and the (in)famous Jar of Moles.\nGreen Spaces – Head just a few minutes away from Euston Road and you’ll find a variety of green spaces perfect for a short stroll, reading a book, or a picnic. Close to UCL you can find Gordon Square, Tavistock Square Gardens, and Russell Square. For a larger space, we’d recommend the trip to Regent’s Park, home to London Zoo.\nWellcome Collection (10am–6pm) – Located opposite the Kathleen Lonsdale Building, the Wellcome Collection hosts a series of rotating exhibitions focused on science, medicine, life, and art. Apparently there’s a lovely library open to everyone too!"
   },
   {
-    "objectID": "workshop.html",
-    "href": "workshop.html",
-    "title": "Workshop",
+    "objectID": "challenges.html",
+    "href": "challenges.html",
+    "title": "Challenges",
     "section": "",
-    "text": "Workshop content goes here"
+    "text": "Challenges content goes here"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Team",
+    "title": "Meet the event organisers",
     "section": "",
-    "text": "Dr Lewis A. Jones, Universidade de Vigo\n\n\n\n\n\n\n\nDr Bethany J. Allen, ETH Zürich\n\n\n\n\n\n\n\nDr Christopher D. Dean, University College London\n\n\n\n\n\n\n\n\n\nDr Kilian Eichenseer, University of Durham\n\n\n\n\n\n\n\nCecily Nicholl, University College London\n\n\n\n\n\n\n\nSofía Galván, Universidade de Vigo"
+    "text": "Dr Lewis A. Jones  Universidade de Vigo, Spain\n\n\n  Dr Bethany J. Allen  ETH Zürich, Switzerland\n\n\n  Dr Christopher D. Dean  University College London, UK\n\n\n\n\n  Dr Kilian Eichenseer  University of Durham, UK\n\n\n  Cecily Nicholl  University College London, UK\n\n\n  Sofía Galván  Universidade de Vigo, Spain"
+  },
+  {
+    "objectID": "functions.html",
+    "href": "functions.html",
+    "title": "Writing functions in R",
+    "section": "",
+    "text": "Function content goes here"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "R for Palaeobiologists: Workshop and Hackathon",
     "section": "",
-    "text": "Welcome\n\n\nSchedule\n\n\nSponsors\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
+    "text": "Welcome\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
+  },
+  {
+    "objectID": "preparation.html",
+    "href": "preparation.html",
+    "title": "Data preparation",
+    "section": "",
+    "text": "Data preparation content goes here"
   },
   {
     "objectID": "food.html",
@@ -63,6 +84,13 @@
     "text": "On Campus\nUCL’s cafes all serve a similar selection of hot and cold drinks, sandwiches, salads, and microwaveable meals averaging around £5–6. All of those listed here are within 3-4 minutes of the Kathleen Lonsdale Building, and are open from 8am onwards.\nThe main canteen (Wilkins Terrace and Lower Refectory) is open throughout the day, and offers a variety of cooked meals costing around £5–7.\n\nGeorge Farha Café (8am–6pm) – the neighbour to the Kathleen Lonsdale Building\nPrint Room Café (8am–8pm) – perhaps the nicest setting if the sun’s out as there’s seating in a nice courtyard. As well as the usual sandwiches and salads, this café also serves a few cooked options such as pasta dishes.\nGordon’s Café (8am–7pm) – Similar to George Farha, but with the bonus addition of pizza!\nWilkins Terrace and Lower Refectory (8–10:30am, 11:30am–7pm) – located on the lower level of campus, the canteen houses 3 or 4 different outlets selling a variety of cooked dishes."
   },
   {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Hackathon presentations",
+    "section": "",
+    "text": "Hackathon presentations content goes here"
+  },
+  {
     "objectID": "location.html",
     "href": "location.html",
     "title": "Getting here",
@@ -75,6 +103,13 @@
     "title": "Getting here",
     "section": "Finding the Workshop and Hackathon",
     "text": "Finding the Workshop and Hackathon\nThe event will be held in the same room within the Kathleen Lonsdale Building. To enter the building, you can either use steps from Gower Pl, or by ramp through the eastern entrance via UCL’s main quad on Gower Street (see map for both). We will be working in Teaching Lab 1 (126) on the 1st floor of the Kathleen Lonsdale Building (signs will be in place upon arrival). Both stairs and an elevator can be accessed from the main lobby area near to the Deinonychus mount. Once on the first floor, take a left from the elevator or a right from the top of the stairs, before following the corridor all the way to its end!\nClick here for an interactive map or see map below."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources content goes here"
   },
   {
     "objectID": "local.html",
@@ -131,5 +166,12 @@
     "title": "Code of Conduct",
     "section": "Attribution",
     "text": "Attribution\n\nThis Code of Conduct is adapted from the Contributor Covenant.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Time\nDay 1 (September 7th)\nDay 2 (September 8th)\n\n\n\n\n09:00\nTea and Coffee ☕ Tea and Coffee ☕\n\n\n\n09:30\nWelcome and Introduction to Palaeoverse\nHackathon\n\n\n10:00\nTheory: Data acquisition/cleaning\nHackathon\n\n\n10:30\nPractical: Data acquisition/cleaning\nHackathon\n\n\n11:00\nTea and Coffee ☕\nTea and Coffee ☕\n\n\n11:30\nTheory: Data preparation with palaeoverse\nHackathon\n\n\n12:00\nPractical: Data preparation with palaeoverse\nHackathon\n\n\n12:30\nLunch\nLunch\n\n\n13:30\nTheory: Introduction to Data visualisation\nHackathon\n\n\n14:00\nPractical: Introduction to Data visualisation\nHackathon\n\n\n14:30\nTheory: Resources\nHackathon\n\n\n15:00\nTheory: Writing functions in R\nHackathon\n\n\n15:30\nTea and Coffee ☕\nTea and Coffee ☕\n\n\n16:00\nPractical: Writing functions in R\nHackathon\n\n\n16:30\nPractical: Writing functions in R\nHackathon\n\n\n17:00\nIntroduction to the Hackathon\nPresentations\n\n\n17:30\nWorking group discussion\nPresentations\n\n\n18:00\nConcluding Remarks\nConcluding Remarks\n\n\n19:30\nDinner 🥘\nDinner 🥘"
   }
 ]

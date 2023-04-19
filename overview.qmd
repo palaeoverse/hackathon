@@ -1,9 +1,0 @@
----
-title: "Palaeoverse: Workshop and Hackathon"
----
-
-# Welcome
-
-Course content goes here
-
-This is a test of github actions!

@@ -7,10 +7,6 @@ toc: false
 
 # Welcome
 
-# Schedule
-
-# Sponsors
-
 This event is sponsored by the [Palaeontological Association](https://www.palass.org) through a Grant-in-Aid (PA-GA202203) and the [Paleontological Society](https://www.paleosoc.org) through a small conference support grant.
 
-![](images/palass-logo.jpg){height="2cm"} ![](images/palsoc-logo.png){height="2cm"}
+![](images/palass-logo.png){height="3cm"} ![](images/palsoc-logo.png){height="3cm"}

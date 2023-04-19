@@ -1,0 +1,6 @@
+---
+title: "Writing functions in R"
+---
+
+Function content goes here
+

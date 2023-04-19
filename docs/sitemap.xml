@@ -1,47 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hackathon.palaeoverse.org/hackathon.html</loc>
-    <lastmod>2023-03-20T15:27:05.660Z</lastmod>
+    <loc>https://hackathon.palaeoverse.org/acquisition.html</loc>
+    <lastmod>2023-04-19T16:21:41.080Z</lastmod>
   </url>
   <url>
-    <loc>https://hackathon.palaeoverse.org/overview.html</loc>
-    <lastmod>2023-03-20T15:27:06.146Z</lastmod>
+    <loc>https://hackathon.palaeoverse.org/hackathon.html</loc>
+    <lastmod>2023-04-19T16:21:41.510Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/visualisation.html</loc>
+    <lastmod>2023-04-19T16:21:41.923Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/entertainment.html</loc>
-    <lastmod>2023-03-20T15:27:06.558Z</lastmod>
+    <lastmod>2023-04-19T16:21:42.395Z</lastmod>
   </url>
   <url>
-    <loc>https://hackathon.palaeoverse.org/workshop.html</loc>
-    <lastmod>2023-03-20T15:27:06.893Z</lastmod>
+    <loc>https://hackathon.palaeoverse.org/challenges.html</loc>
+    <lastmod>2023-04-19T16:21:42.723Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/team.html</loc>
-    <lastmod>2023-03-20T15:27:07.237Z</lastmod>
+    <lastmod>2023-04-19T16:21:43.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/functions.html</loc>
+    <lastmod>2023-04-19T16:21:43.601Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/index.html</loc>
-    <lastmod>2023-03-20T15:27:07.667Z</lastmod>
+    <lastmod>2023-04-19T16:21:44.018Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/preparation.html</loc>
+    <lastmod>2023-04-19T16:21:44.360Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/accommodation.html</loc>
-    <lastmod>2023-03-20T15:27:08.069Z</lastmod>
+    <lastmod>2023-04-19T16:21:44.769Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/food.html</loc>
-    <lastmod>2023-03-20T15:27:08.439Z</lastmod>
+    <lastmod>2023-04-19T16:21:45.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/presentations.html</loc>
+    <lastmod>2023-04-19T16:21:45.494Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/location.html</loc>
-    <lastmod>2023-03-20T15:27:08.782Z</lastmod>
+    <lastmod>2023-04-19T16:21:45.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/resources.html</loc>
+    <lastmod>2023-04-19T16:21:46.231Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/local.html</loc>
-    <lastmod>2023-03-20T15:27:09.175Z</lastmod>
+    <lastmod>2023-04-19T16:21:46.554Z</lastmod>
   </url>
   <url>
     <loc>https://hackathon.palaeoverse.org/conduct.html</loc>
-    <lastmod>2023-03-20T15:27:09.566Z</lastmod>
+    <lastmod>2023-04-19T16:21:47.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hackathon.palaeoverse.org/schedule.html</loc>
+    <lastmod>2023-04-19T16:21:47.345Z</lastmod>
   </url>
 </urlset>
