@@ -55,12 +55,8 @@ website:
             text: Writing functions
           - href: resources.qmd
             text: Resources
-      - section: "Hackathon"
-        contents:
-          - href: challenges.qmd
-            text: Challenges
-          - href: presentations.qmd
-            text: Presentations
+      - href: hackathon.qmd
+        text: Hackathon
       - href: location.qmd
         text: Getting Here
       - href: accommodation.qmd

@@ -3,3 +3,5 @@ title: "Hackathon"
 ---
 
 Hackathon content goes here
+
+The briefs will be made available during the event to ensure everyone has an equal opportunity.
