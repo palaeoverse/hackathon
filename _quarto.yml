@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  page-navigation: true
+  page-navigation: false
   title: "R for Palaeobiologists"
   description: "Palaeoverse: Workshop and Hackathon - University College London, Autumn 2023"
   site-url: https://hackathon.palaeoverse.org
@@ -13,6 +13,7 @@ website:
   twitter-card: true
   image: "/images/twitter-card.png"
   page-footer:
+    border: true
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, Lewis A. Jones"
     center: |
@@ -22,6 +23,7 @@ website:
 
   sidebar:
     background: "lightgrey"
+    border: true
     logo: "images/logo.png"
     pinned: true
     align: center
@@ -32,7 +34,6 @@ website:
       - icon: twitter
         href: https://twitter.com/ThePalaeoverse
         text: "Twitter"
-
     style: "docked"
     search: true
     collapse-level: 1
@@ -77,7 +78,5 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-
-freeze: auto
 
 editor: visual
