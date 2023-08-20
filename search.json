@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "R for Palaeobiologists: Workshop and Hackathon",
     "section": "",
-    "text": "7–8th September 2023, Kathleen Lonsdale Building, University College London\n\nWelcome\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
+    "text": "7–8th September 2023, Kathleen Lonsdale Building, University College London\n\nWelcome\nWelcome to the first edition of R for Palaeobiologists: Workshop and Hackathon. R is one of the most popular languages in the world of Data Science and has been widely adopted by the palaeobiology community to clean, analyse and plot data. General familiarity with R allows users to expand the potential of their research and automate routine tasks. Importantly, it allows researchers to improve the reproducibility of their research and document their analyses. The workshop component of this event will provide an introduction to data acquisition, preparation, and visualisation in R. The hackathon component of this event will provide the opportunity for attendees to work together in small focus groups to develop workflows, functions, and novel tools to address challenges in palaeobiology. This event provides an opportunity for attendees to work with different early career researchers and gain experience working collaboratively in R to generate reproducible research.\nThis event is run by the Palaeoverse development team and sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
   },
   {
     "objectID": "conduct.html",
