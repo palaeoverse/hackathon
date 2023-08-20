@@ -7,6 +7,8 @@ toc: true
 
 # Welcome
 
-This event is sponsored by the [Palaeontological Association](https://www.palass.org) through a Grant-in-Aid (PA-GA202203) and the [Paleontological Society](https://www.paleosoc.org) through a small conference support grant.
+Welcome to the first edition of **R for Palaeobiologists: Workshop and Hackathon**. R is one of the most popular languages in the world of Data Science and has been widely adopted by the palaeobiology community to clean, analyse and plot data. General familiarity with R allows users to expand the potential of their research and automate routine tasks. Importantly, it allows researchers to improve the reproducibility of their research and document their analyses. The workshop component of this event will provide an introduction to data acquisition, preparation, and visualisation in R. The hackathon component of this event will provide the opportunity for attendees to work together in small focus groups to develop workflows, functions, and novel tools to address challenges in palaeobiology. This event provides an opportunity for attendees to work with different early career researchers and gain experience working collaboratively in R to generate reproducible research.
+
+This event is run by the [Palaeoverse](https://palaeoverse.org) development team and sponsored by the [Palaeontological Association](https://www.palass.org) through a Grant-in-Aid (PA-GA202203) and the [Paleontological Society](https://www.paleosoc.org) through a small conference support grant.
 
 ![](images/palass-logo.png){height="3cm"} ![](images/palsoc-logo.png){height="3cm"}
