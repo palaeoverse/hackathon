@@ -56,46 +56,18 @@
     "text": "On Campus\nUCL’s cafes all serve a similar selection of hot and cold drinks, sandwiches, salads, and microwaveable meals averaging around £5–6. All of those listed here are within 3-4 minutes of the Kathleen Lonsdale Building, and are open from 8am onwards.\nThe main canteen (Wilkins Terrace and Lower Refectory) is open throughout the day, and offers a variety of cooked meals costing around £5–7.\n\nGeorge Farha Café (8am–6pm) – the neighbour to the Kathleen Lonsdale Building\nPrint Room Café (8am–8pm) – perhaps the nicest setting if the sun’s out as there’s seating in a nice courtyard. As well as the usual sandwiches and salads, this café also serves a few cooked options such as pasta dishes.\nGordon’s Café (8am–7pm) – Similar to George Farha, but with the bonus addition of pizza!\nWilkins Terrace and Lower Refectory (8–10:30am, 11:30am–7pm) – located on the lower level of campus, the canteen houses 3 or 4 different outlets selling a variety of cooked dishes."
   },
   {
-    "objectID": "preparation.html",
-    "href": "preparation.html",
-    "title": "Data preparation",
+    "objectID": "accommodation.html",
+    "href": "accommodation.html",
+    "title": "Accommodation",
     "section": "",
-    "text": "Data preparation content goes here"
+    "text": "For the cheapest accommodation options, we recommend reserving a room at one of several university halls which are hired out to visitors over the summer. A single room with shared bathroom facilities can be acquired from £45 a night, with the cheapest ensuite options starting from £65. You can use the following links to assess options:\n\nUniversity College London (UCL)\nLondon School of Economics (LSE)\nKing’s College London (KCL)\nImperial College London (ICL)\n\nMany major chain hotels can also be found within 10–15 minutes walking distance of UCL, with rates for a double ensuite starting from around £100 a night. Some suggestions include:\n\nPremier Inn London Euston\nPremier Inn London St. Pancras\nHub by Premier Inn Goodge Street\n\nMultiple independent hotels also operate in the area, which can be viewed on booking.com.\nWe recommend booking as soon as possible to keep prices lower!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R for Palaeobiologists: Workshop and Hackathon",
+    "objectID": "functions.html",
+    "href": "functions.html",
+    "title": "Writing functions in R",
     "section": "",
-    "text": "7–8th September 2023, Kathleen Lonsdale Building, University College London\n\nWelcome\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Meet the event organisers",
-    "section": "",
-    "text": "This edition of the Workshop and Hackathon event is organised and led by the following members of the Palaeoverse team.\n\n\n\n  Dr Lewis A. Jones  Universidade de Vigo, Spain\n\n\n  Dr Bethany J. Allen  ETH Zürich, Switzerland\n\n\n  Dr Christopher D. Dean  University College London, UK\n\n\n\n\n  Dr Kilian Eichenseer  University of Durham, UK\n\n\n  Cecily Nicholl  University College London, UK\n\n\n  Sofía Galván  Universidade de Vigo, Spain\n\n\n\n\n  Miranta Kouvari  Science Graphic Design, UK"
-  },
-  {
-    "objectID": "visualisation.html",
-    "href": "visualisation.html",
-    "title": "Data visualisation",
-    "section": "",
-    "text": "Data visualisation content goes here"
-  },
-  {
-    "objectID": "acquisition.html",
-    "href": "acquisition.html",
-    "title": "Data acquisition and cleaning",
-    "section": "",
-    "text": "Data acquisition and cleaning content goes here"
-  },
-  {
-    "objectID": "hackathon.html",
-    "href": "hackathon.html",
-    "title": "Hackathon",
-    "section": "",
-    "text": "Hackathon content goes here\nThe briefs will be made available during the event to ensure everyone has an equal opportunity."
+    "text": "Function content goes here"
   },
   {
     "objectID": "entertainment.html",
@@ -119,18 +91,67 @@
     "text": "Things to do in the immediate area\n\nUCL’s Grant Museum of Zoology (1–5pm Tues to Fri) – a five-minute walk from the workshop, this little museum hosts thousands of Zoological specimens in cabinets and jars. Highlights include the Micrarium and the (in)famous Jar of Moles.\nGreen Spaces – Head just a few minutes away from Euston Road and you’ll find a variety of green spaces perfect for a short stroll, reading a book, or a picnic. Close to UCL you can find Gordon Square, Tavistock Square Gardens, and Russell Square. For a larger space, we’d recommend the trip to Regent’s Park, home to London Zoo.\nWellcome Collection (10am–6pm) – Located opposite the Kathleen Lonsdale Building, the Wellcome Collection hosts a series of rotating exhibitions focused on science, medicine, life, and art. Apparently there’s a lovely library open to everyone too!"
   },
   {
-    "objectID": "functions.html",
-    "href": "functions.html",
-    "title": "Writing functions in R",
+    "objectID": "hackathon.html",
+    "href": "hackathon.html",
+    "title": "Hackathon",
     "section": "",
-    "text": "Function content goes here"
+    "text": "Hackathon content goes here\nThe briefs will be made available during the event to ensure everyone has an equal opportunity."
   },
   {
-    "objectID": "accommodation.html",
-    "href": "accommodation.html",
-    "title": "Accommodation",
+    "objectID": "acquisition.html",
+    "href": "acquisition.html",
+    "title": "Data acquisition and cleaning",
     "section": "",
-    "text": "For the cheapest accommodation options, we recommend reserving a room at one of several university halls which are hired out to visitors over the summer. A single room with shared bathroom facilities can be acquired from £45 a night, with the cheapest ensuite options starting from £65. You can use the following links to assess options:\n\nUniversity College London (UCL)\nLondon School of Economics (LSE)\nKing’s College London (KCL)\nImperial College London (ICL)\n\nMany major chain hotels can also be found within 10–15 minutes walking distance of UCL, with rates for a double ensuite starting from around £100 a night. Some suggestions include:\n\nPremier Inn London Euston\nPremier Inn London St. Pancras\nHub by Premier Inn Goodge Street\n\nMultiple independent hotels also operate in the area, which can be viewed on booking.com.\nWe recommend booking as soon as possible to keep prices lower!"
+    "text": "Data acquisition and cleaning content goes here"
+  },
+  {
+    "objectID": "visualisation.html",
+    "href": "visualisation.html",
+    "title": "Data visualisation",
+    "section": "",
+    "text": "Data visualisation content goes here"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the event organisers",
+    "section": "",
+    "text": "This edition of the Workshop and Hackathon event is organised and led by the following members of the Palaeoverse team.\n\n\n\n  Dr Lewis A. Jones  Universidade de Vigo, Spain\n\n\n  Dr Bethany J. Allen  ETH Zürich, Switzerland\n\n\n  Dr Christopher D. Dean  University College London, UK\n\n\n\n\n  Dr Kilian Eichenseer  University of Durham, UK\n\n\n  Cecily Nicholl  University College London, UK\n\n\n  Sofía Galván  Universidade de Vigo, Spain\n\n\n\n\n  Miranta Kouvari  Science Graphic Design, UK"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R for Palaeobiologists: Workshop and Hackathon",
+    "section": "",
+    "text": "7–8th September 2023, Kathleen Lonsdale Building, University College London\n\nWelcome\nThis event is sponsored by the Palaeontological Association through a Grant-in-Aid (PA-GA202203) and the Paleontological Society through a small conference support grant."
+  },
+  {
+    "objectID": "preparation.html",
+    "href": "preparation.html",
+    "title": "Data preparation with the palaeoverse R package",
+    "section": "",
+    "text": "This unit of the workshop covers preparation and exploration of fossil occurrence data using the palaeoverse R package. The slides for the unit are available here and provide an introduction to palaeoverse and the available functionality. The code for the tutorial is available here and provides usage examples for helping you get started with the package.\nThis session is led by Lewis A. Jones. If you encounter any issues while working with these resources, please contact him here."
+  },
+  {
+    "objectID": "preparation.html#summary",
+    "href": "preparation.html#summary",
+    "title": "Data preparation with the palaeoverse R package",
+    "section": "",
+    "text": "This unit of the workshop covers preparation and exploration of fossil occurrence data using the palaeoverse R package. The slides for the unit are available here and provide an introduction to palaeoverse and the available functionality. The code for the tutorial is available here and provides usage examples for helping you get started with the package.\nThis session is led by Lewis A. Jones. If you encounter any issues while working with these resources, please contact him here."
+  },
+  {
+    "objectID": "preparation.html#resources",
+    "href": "preparation.html#resources",
+    "title": "Data preparation with the palaeoverse R package",
+    "section": "Resources",
+    "text": "Resources\n\nTutorial slides\nTutorial code"
+  },
+  {
+    "objectID": "introduction.html#resources",
+    "href": "introduction.html#resources",
+    "title": "Introduction",
+    "section": "Resources",
+    "text": "Resources\n\nSlides"
   },
   {
     "objectID": "presentations.html",

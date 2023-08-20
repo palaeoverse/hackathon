@@ -44,8 +44,10 @@ website:
         text: Schedule
       - href: team.qmd
         text: Organising Team
-      - section: "Workshop"
+      - section: "Day 1: Workshop"
         contents:
+          - href: introduction.qmd
+            text: Introduction
           - href: acquisition.qmd
             text: Data acquisition
           - href: preparation.qmd
@@ -57,7 +59,7 @@ website:
           - href: resources.qmd
             text: Resources
       - href: hackathon.qmd
-        text: Hackathon
+        text: "Day 2: Hackathon"
       - href: location.qmd
         text: Getting Here
       - href: accommodation.qmd
@@ -75,6 +77,7 @@ format:
       light: [cosmo, theme.scss]
       dark: [cosmo, theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
+    linkcolor: "#800080"
     code-copy: true
     code-overflow: wrap
     toc: true
