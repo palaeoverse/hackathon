@@ -228,6 +228,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objective" id="toc-objective" class="nav-link" data-scroll-target="#objective">Objective</a></li>
   <li><a href="#starting-points-to-consider" id="toc-starting-points-to-consider" class="nav-link" data-scroll-target="#starting-points-to-consider">Starting points to consider</a></li>
   </ul></li>
+  <li><a href="#brief-2-ghost_ranges" id="toc-brief-2-ghost_ranges" class="nav-link" data-scroll-target="#brief-2-ghost_ranges">Brief 2: ghost_ranges</a>
+  <ul class="collapse">
+  <li><a href="#context-1" id="toc-context-1" class="nav-link" data-scroll-target="#context-1">Context</a></li>
+  <li><a href="#objective-1" id="toc-objective-1" class="nav-link" data-scroll-target="#objective-1">Objective</a></li>
+  <li><a href="#starting-points-to-consider-1" id="toc-starting-points-to-consider-1" class="nav-link" data-scroll-target="#starting-points-to-consider-1">Starting points to consider</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -273,6 +279,28 @@ ul.task-list li input[type="checkbox"] {
 <li>How is the data structured? One (e.g.&nbsp;early_interval/late_interval) or two data columns (e.g.&nbsp;max_ma and min_ma)?</li>
 <li>What data errors might arise (e.g.&nbsp;spelling mistakes, data in the wrong columns)?</li>
 <li>What inconsistencies might arise (e.g.&nbsp;“early interval” vs.&nbsp;“early_interval”)?</li>
+</ul>
+</section>
+</section>
+<section id="brief-2-ghost_ranges" class="level2">
+<h2 class="anchored" data-anchor-id="brief-2-ghost_ranges">Brief 2: ghost_ranges</h2>
+<section id="context-1" class="level3">
+<h3 class="anchored" data-anchor-id="context-1">Context</h3>
+<p>Fossil taxa are often only sampled periodically between their first and last occurrences. The periods of absence - known as ghost ranges - represent known failed sampling events, and can be useful for understanding sampling bias in an occurrence dataset.</p>
+</section>
+<section id="objective-1" class="level3">
+<h3 class="anchored" data-anchor-id="objective-1">Objective</h3>
+<ul>
+<li>Develop a function (e.g.&nbsp;<code>ghost_ranges</code>) which quantifies the ghost ranges in an occurrence dataset.</li>
+</ul>
+</section>
+<section id="starting-points-to-consider-1" class="level3">
+<h3 class="anchored" data-anchor-id="starting-points-to-consider-1">Starting points to consider</h3>
+<ul>
+<li>Should times of absence be treated as continuous or as discrete geological intervals?</li>
+<li>What is useful to know about these ranges - their frequency, their length, their placement relative to the range, or something else?</li>
+<li>Should this information be collected per-taxon and/or as averages across a set of taxa?</li>
+<li>How is it best to present or visualise the output?</li>
 </ul>
 
 
