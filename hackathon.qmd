@@ -22,3 +22,20 @@ When working with fossil datasets, we typically use age information associated w
 * What data errors might arise (e.g. spelling mistakes, data in the wrong columns)?
 * What inconsistencies might arise (e.g. "early interval" vs. "early_interval")?
 
+## Brief 2: ghost_ranges
+
+### Context
+
+Fossil taxa are often only sampled periodically between their first and last occurrences. The periods of absence - known as ghost ranges - represent known failed sampling events, and can be useful for understanding sampling bias in an occurrence dataset.
+
+### Objective
+
+* Develop a function (e.g. `ghost_ranges`) which quantifies the ghost ranges in an occurrence dataset.
+
+### Starting points to consider
+
+* Should times of absence be treated as continuous or as discrete geological intervals?
+* What is useful to know about these ranges - their frequency, their length, their placement relative to the range, or something else?
+* Should this information be collected per-taxon and/or as averages across a set of taxa?
+* How is it best to present or visualise the output?
+
