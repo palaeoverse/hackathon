@@ -216,7 +216,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#briefs" id="toc-briefs" class="nav-link active" data-scroll-target="#briefs">Briefs</a>
+  <ul class="collapse">
+  <li><a href="#brief-1-geo_check" id="toc-brief-1-geo_check" class="nav-link" data-scroll-target="#brief-1-geo_check">Brief 1: geo_check</a>
+  <ul class="collapse">
+  <li><a href="#context" id="toc-context" class="nav-link" data-scroll-target="#context">Context</a></li>
+  <li><a href="#objective" id="toc-objective" class="nav-link" data-scroll-target="#objective">Objective</a></li>
+  <li><a href="#starting-points-to-consider" id="toc-starting-points-to-consider" class="nav-link" data-scroll-target="#starting-points-to-consider">Starting points to consider</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -238,10 +252,33 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Hackathon content goes here</p>
-<p>The briefs will be made available during the event to ensure everyone has an equal opportunity.</p>
+<section id="briefs" class="level1">
+<h1>Briefs</h1>
+<p>We have prepared four project briefs for the hackathon. You and your group are free to choose whichever brief you wish to work on (first-come, first-served basis). Alternatively, you are free to work on your own project idea.</p>
+<section id="brief-1-geo_check" class="level2">
+<h2 class="anchored" data-anchor-id="brief-1-geo_check">Brief 1: geo_check</h2>
+<section id="context" class="level3">
+<h3 class="anchored" data-anchor-id="context">Context</h3>
+<p>When working with fossil datasets, we typically use age information associated with occurrences. This age information can be numerical values, interval names, or in some cases, a mixture of both. As with all datasets, errors and inconsistencies can exist.</p>
+</section>
+<section id="objective" class="level3">
+<h3 class="anchored" data-anchor-id="objective">Objective</h3>
+<ul>
+<li>Develop a function (e.g.&nbsp;<code>geo_check</code>) which delivers automatic checking (and potentially cleaning) for common errors and inconsistencies in age data.</li>
+</ul>
+</section>
+<section id="starting-points-to-consider" class="level3">
+<h3 class="anchored" data-anchor-id="starting-points-to-consider">Starting points to consider</h3>
+<ul>
+<li>How is the data structured? One (e.g.&nbsp;early_interval/late_interval) or two data columns (e.g.&nbsp;max_ma and min_ma)?</li>
+<li>What data errors might arise (e.g.&nbsp;spelling mistakes, data in the wrong columns)?</li>
+<li>What inconsistencies might arise (e.g.&nbsp;“early interval” vs.&nbsp;“early_interval”)?</li>
+</ul>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -596,7 +633,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© Copyright 2023, Lewis A. Jones</div>   
-    <div class="nav-footer-center">Sponsored by the <a href="https://www.palass.org">Palaeontological Association</a> and <br> the <a href="https://www.paleosoc.org">Paleontological Society</a><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    <div class="nav-footer-center">Sponsored by the <a href="https://www.palass.org">Palaeontological Association</a> and <br> the <a href="https://www.paleosoc.org">Paleontological Society</a></div>
     <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>
