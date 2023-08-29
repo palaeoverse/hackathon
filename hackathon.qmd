@@ -14,13 +14,13 @@ When working with fossil datasets, we typically use age information associated w
 
 ### Objective
 
-* Develop a function (e.g. `geo_check`) which delivers automatic checking (and potentially cleaning) for common errors and inconsistencies in age data.
+-   Develop a function (e.g. `geo_check`) which delivers automatic checking (and potentially cleaning) for common errors and inconsistencies in age data.
 
 ### Starting points to consider
 
-* How is the data structured? One (e.g. early_interval/late_interval) or two data columns (e.g. max_ma and min_ma)?
-* What data errors might arise (e.g. spelling mistakes, data in the wrong columns)?
-* What inconsistencies might arise (e.g. "early interval" vs. "early_interval")?
+-   How is the data structured? One (e.g. early_interval/late_interval) or two data columns (e.g. max_ma and min_ma)?
+-   What data errors might arise (e.g. spelling mistakes, data in the wrong columns)?
+-   What inconsistencies might arise (e.g. "early interval" vs. "early_interval")?
 
 ## Brief 2: ghost_ranges
 
@@ -30,12 +30,28 @@ Fossil taxa are often only sampled periodically between their first and last occ
 
 ### Objective
 
-* Develop a function (e.g. `ghost_ranges`) which quantifies the ghost ranges in an occurrence dataset.
+-   Develop a function (e.g. `ghost_ranges`) which quantifies the ghost ranges in an occurrence dataset.
 
 ### Starting points to consider
 
-* Should times of absence be treated as continuous or as discrete geological intervals?
-* What is useful to know about these ranges - their frequency, their length, their placement relative to the range, or something else?
-* Should this information be collected per-taxon and/or as averages across a set of taxa?
-* How is it best to present or visualise the output?
+-   Should times of absence be treated as continuous or as discrete geological intervals?
+-   What is useful to know about these ranges - their frequency, their length, their placement relative to the range, or something else?
+-   Should this information be collected per-taxon and/or as averages across a set of taxa?
+-   How is it best to present or visualise the output?
 
+## Brief 3: abundance_distr
+
+### Context
+
+Summarising the abundances of taxa is fundamental for understanding occurrence data. Abundance distributions are frequently used for ecological analyses and to inform diversity metrics.
+
+### Objective
+
+-   Develop a function (e.g. `abundance_distr`) which summarises the abundance of taxa in an occurrence dataset.
+
+### Starting points to consider
+
+-   Should the function be flexible enough to provide both absolute and relative abundance distributions?
+-   How should the abundances be ordered and visualised?
+-   What is a useful output format to use the abundances for further analysis, for example with the `vegan` package?
+-   How should data sets be handled that contain occurrences from different time intervals? 
