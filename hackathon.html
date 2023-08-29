@@ -234,6 +234,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objective-1" id="toc-objective-1" class="nav-link" data-scroll-target="#objective-1">Objective</a></li>
   <li><a href="#starting-points-to-consider-1" id="toc-starting-points-to-consider-1" class="nav-link" data-scroll-target="#starting-points-to-consider-1">Starting points to consider</a></li>
   </ul></li>
+  <li><a href="#brief-3-abundance_distr" id="toc-brief-3-abundance_distr" class="nav-link" data-scroll-target="#brief-3-abundance_distr">Brief 3: abundance_distr</a>
+  <ul class="collapse">
+  <li><a href="#context-2" id="toc-context-2" class="nav-link" data-scroll-target="#context-2">Context</a></li>
+  <li><a href="#objective-2" id="toc-objective-2" class="nav-link" data-scroll-target="#objective-2">Objective</a></li>
+  <li><a href="#starting-points-to-consider-2" id="toc-starting-points-to-consider-2" class="nav-link" data-scroll-target="#starting-points-to-consider-2">Starting points to consider</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -301,6 +307,28 @@ ul.task-list li input[type="checkbox"] {
 <li>What is useful to know about these ranges - their frequency, their length, their placement relative to the range, or something else?</li>
 <li>Should this information be collected per-taxon and/or as averages across a set of taxa?</li>
 <li>How is it best to present or visualise the output?</li>
+</ul>
+</section>
+</section>
+<section id="brief-3-abundance_distr" class="level2">
+<h2 class="anchored" data-anchor-id="brief-3-abundance_distr">Brief 3: abundance_distr</h2>
+<section id="context-2" class="level3">
+<h3 class="anchored" data-anchor-id="context-2">Context</h3>
+<p>Summarising the abundances of taxa is fundamental for understanding occurrence data. Abundance distributions are frequently used for ecological analyses and to inform diversity metrics.</p>
+</section>
+<section id="objective-2" class="level3">
+<h3 class="anchored" data-anchor-id="objective-2">Objective</h3>
+<ul>
+<li>Develop a function (e.g.&nbsp;<code>abundance_distr</code>) which summarises the abundance of taxa in an occurrence dataset.</li>
+</ul>
+</section>
+<section id="starting-points-to-consider-2" class="level3">
+<h3 class="anchored" data-anchor-id="starting-points-to-consider-2">Starting points to consider</h3>
+<ul>
+<li>Should the function be flexible enough to provide both absolute and relative abundance distributions?</li>
+<li>How should the abundances be ordered and visualised?</li>
+<li>What is a useful output format to use the abundances for further analysis, for example with the <code>vegan</code> package?</li>
+<li>How should data sets be handled that contain occurrences from different time intervals?</li>
 </ul>
 
 
