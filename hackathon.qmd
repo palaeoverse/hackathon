@@ -47,7 +47,7 @@ Summarising the abundances of taxa is fundamental for understanding occurrence d
 
 ### Objective
 
--   Develop a function (e.g. `abundance_distr`) which summarises the abundance of taxa in an occurrence dataset.
+-   Develop a function (e.g. `abundance_distr`) which summarises the abundances of taxa in an occurrence dataset.
 
 ### Starting points to consider
 
