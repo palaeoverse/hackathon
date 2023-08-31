@@ -137,7 +137,21 @@
     "href": "visualisation.html",
     "title": "Data visualisation",
     "section": "",
-    "text": "Summary\nText\n\n\nResources\nData visualisation"
+    "text": "This unit of the workshop covers different tools for visualising fossil occurrence data.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with these resources, please contact them here and here."
+  },
+  {
+    "objectID": "visualisation.html#summary",
+    "href": "visualisation.html#summary",
+    "title": "Data visualisation",
+    "section": "",
+    "text": "This unit of the workshop covers different tools for visualising fossil occurrence data.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with these resources, please contact them here and here."
+  },
+  {
+    "objectID": "visualisation.html#resources",
+    "href": "visualisation.html#resources",
+    "title": "Data visualisation",
+    "section": "Resources",
+    "text": "Resources\n\nData visualisation 0: base R html\nData visualisation 0: base R Rmd\nData visualisation 1: ggplot2 html\nData visualisation 1: ggplot2 Rmd\nData visualisation 2: spatial data html\nData visualisation 2: spatial data Rmd\n\n\n\n\nMore resources for data visualisation"
   },
   {
     "objectID": "resources.html",
