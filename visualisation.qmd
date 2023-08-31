@@ -2,13 +2,20 @@
 title: "Data visualisation"
 ---
 
-# Summary
+## Summary
 
-Text
+This unit of the workshop covers different tools for visualising fossil occurrence data.
 
-# Resources
+This session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with these resources, please contact them [here](mailto:sofia.galvan@uvigo.es) and [here](mailto:kouvari.miranta@gmail.com).
 
-[Data visualisation](https://htmlpreview.github.io/?https://github.com/SofiaGalv/DataVis/blob/88af00b772c7401ae7b9eba649d611ccae16eacf/DV_ggplot2.html)
+## Resources
 
-![](https://github.com/palaeoverse-community/palaeoverse/blob/main/pkgdown/favicon/apple-touch-icon-180x180.png?raw=true)
+-   [Data visualisation 0: base R html](https://htmlpreview.github.io/?https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_BaseR.html)
+-   [Data visualisation 0: base R Rmd](https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_BaseR.Rmd)
+-   [Data visualisation 1: ggplot2 html](https://htmlpreview.github.io/?https://github.com/SofiaGalv/DataVis/blob/88af00b772c7401ae7b9eba649d611ccae16eacf/DV_ggplot2.html)
+-   [Data visualisation 1: ggplot2 Rmd](https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_ggplot2.Rmd)
+-   [Data visualisation 2: spatial data html](https://htmlpreview.github.io/?https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_spatialdata.html)
+-   [Data visualisation 2: spatial data Rmd](https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_spatialdata.Rmd)
+
+![More resources for data visualisation](https://github.com/palaeoverse-community/palaeoverse/blob/main/pkgdown/favicon/apple-touch-icon-180x180.png?raw=true)
 
