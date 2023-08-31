@@ -1,6 +1,0 @@
----
-title: "Data visualisation"
----
-
-Data visualisation content goes here
-
