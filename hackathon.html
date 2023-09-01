@@ -240,6 +240,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objective-3" id="toc-objective-3" class="nav-link" data-scroll-target="#objective-3">Objective</a></li>
   <li><a href="#starting-points-to-consider-3" id="toc-starting-points-to-consider-3" class="nav-link" data-scroll-target="#starting-points-to-consider-3">Starting points to consider</a></li>
   </ul></li>
+  <li><a href="#brief-5-lat_bins" id="toc-brief-5-lat_bins" class="nav-link" data-scroll-target="#brief-5-lat_bins">Brief 5: lat_bins</a>
+  <ul class="collapse">
+  <li><a href="#context-4" id="toc-context-4" class="nav-link" data-scroll-target="#context-4">Context</a></li>
+  <li><a href="#objective-4" id="toc-objective-4" class="nav-link" data-scroll-target="#objective-4">Objective</a></li>
+  <li><a href="#starting-points-to-consider-4" id="toc-starting-points-to-consider-4" class="nav-link" data-scroll-target="#starting-points-to-consider-4">Starting points to consider</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -351,6 +357,29 @@ ul.task-list li input[type="checkbox"] {
 <li>How does the function handle relative (summing to 1) and absolute metrics, and where can the legend be placed in either case?</li>
 <li>What defines the order in which different groups are stacked?</li>
 <li>What colour schemes could be used, and how should the colours be ordered for optimal visibility?</li>
+</ul>
+</section>
+</section>
+<section id="brief-5-lat_bins" class="level2">
+<h2 class="anchored" data-anchor-id="brief-5-lat_bins">Brief 5: lat_bins</h2>
+<section id="context-4" class="level3">
+<h3 class="anchored" data-anchor-id="context-4">Context</h3>
+<p>Palaeobiologists are often interested in latitudinal trends through time. To study such patterns, fossil occurrence data are typically binned into latitudinal bins (e.g.&nbsp;<code>palaeoverse::lat_bins</code> and <code>palaeoverse::bin_lat</code>). At the equator, a degree of longitude is the same as a degree of latitude, approximately 111 km. However, this length decreases as you move away from the equator. Consequently, standard latitudinal bins (e.g.&nbsp;5º bins) have an unequal amount of area within each bin.</p>
+</section>
+<section id="objective-4" class="level3">
+<h3 class="anchored" data-anchor-id="objective-4">Objective</h3>
+<ul>
+<li>Develop a function (e.g.&nbsp;<code>lat_bins</code>) which creates equal-area latitudinal bins</li>
+</ul>
+</section>
+<section id="starting-points-to-consider-4" class="level3">
+<h3 class="anchored" data-anchor-id="starting-points-to-consider-4">Starting points to consider</h3>
+<ul>
+<li>How might users want to define their bins? Number of bins or size of bins?</li>
+<li>Do users want the entire latitudinal range?</li>
+<li>What output might users want?</li>
+<li>The Earth is not a perfect sphere</li>
+<li>The distribution of land and ocean area changes through time</li>
 </ul>
 
 
