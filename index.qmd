@@ -11,7 +11,7 @@ Welcome to the first edition of **R for Palaeobiologists: Workshop and Hackathon
 
 ## Arrival
 
-The event starts at 09:00 on the 7^th^ September 2023 and will take place in Teaching Lab 1 (126), [Kathleen Lonsdale Building, University College London](https://goo.gl/maps/CseD7br5SF9xLEQE6). See [Getting Here](/location.qmd) for more information. 
+The event starts at 09:00 on the 7^th^ September 2023 and will take place in Teaching Lab 1 (126), [Kathleen Lonsdale Building, University College London](https://goo.gl/maps/CseD7br5SF9xLEQE6). You should enter the building from the Gower Place entrance. We will meet you there from 08:55. See [Getting Here](/location.qmd) for more information. 
 
 The full schedule for the event is available [here](/schedule.qmd).
 
