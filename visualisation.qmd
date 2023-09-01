@@ -19,5 +19,8 @@ This session is led by Sofía Galván and Miranta Kouvari. If you encounter any 
 -   [Data visualization 2: spatial data html](https://htmlpreview.github.io/?https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_spatialdata.html)
 -   [Data visualization 2: spatial data Rmd](https://github.com/SofiaGalv/DataVis/blob/117ff947250a0c5b0e0f44a764edb0d0036d0374/DV_spatialdata.Rmd)
 
-![More resources for data visualisation](https://github.com/SofiaGalv/DataVis/blob/d7ece9a5cf63df24b84409e4e1999fa0f6be5da3/DV_Resources.png)
+![](https://raw.githubusercontent.com/SofiaGalv/DataVis/main/DV_Resources.png){fig-align="left" width="75%"}
+
+![](images/logo.png){fig-align="right" width="25%"}
+
 
