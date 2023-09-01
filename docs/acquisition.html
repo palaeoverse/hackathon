@@ -64,10 +64,16 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="R for Palaeobiologists - Data acquisition and cleaning">
 <meta property="og:description" content="">
+<meta property="og:image" content="https://hackathon.palaeoverse.org/images/logo.png">
 <meta property="og:site-name" content="R for Palaeobiologists">
+<meta property="og:image:height" content="1062">
+<meta property="og:image:width" content="920">
 <meta name="twitter:title" content="R for Palaeobiologists - Data acquisition and cleaning">
 <meta name="twitter:description" content="">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://hackathon.palaeoverse.org/images/logo.png">
+<meta name="twitter:image-height" content="1062">
+<meta name="twitter:image-width" content="920">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-sidebar docked">
@@ -79,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Day 1: Workshop</a></li><li class="breadcrumb-item"><a href="./acquisition.html">Data acquisition</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./acquisition.html">Day 1: Workshop</a></li><li class="breadcrumb-item"><a href="./acquisition.html">Data acquisition</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -136,12 +142,6 @@ ul.task-list li input[type="checkbox"] {
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./introduction.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
-  </div>
-</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./acquisition.html" class="sidebar-item-text sidebar-link active">
@@ -216,7 +216,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/acquisition.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -238,9 +245,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Data acquisition and cleaning content goes here</p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>This unit of the workshop covers existing databases, and other resources, from which data relevant to palaeobiological analyses can be obtained. The slides for the unit are available <a href="https://github.com/bethany-j-allen/get_fossil_data/blob/main/ObtainingData_hackathon.pdf">here</a> and provide an introduction to some of the most commonly used resources. The tutorial focuses on how to access occurrence data from the Paleobiology Database directly through R, and highlights some characteristics of this data and some problems this can pose for subsequent data analysis. The code for the tutorial is available <a href="https://github.com/bethany-j-allen/get_fossil_data/blob/main/PBDB_API.R">here</a>.</p>
+<p>This session is led by Bethany Allen. If you encounter any issues while working with these resources, please contact her <a href="mailto:bethany.allen@bsse.ethz.ch">here</a>.</p>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li><a href="https://github.com/bethany-j-allen/get_fossil_data/blob/main/ObtainingData_hackathon.pdf">Tutorial slides</a></li>
+<li><a href="https://github.com/bethany-j-allen/get_fossil_data/blob/main/PBDB_API.R">Tutorial R code</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="images/logo.png" class="img-fluid figure-img" style="width:25.0%"></p>
+</figure>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -595,7 +618,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© Copyright 2023, Lewis A. Jones</div>   
-    <div class="nav-footer-center">Sponsored by the <a href="https://www.palass.org">Palaeontological Association</a> and <br> the <a href="https://www.paleosoc.org">Paleontological Society</a><div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/acquisition.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    <div class="nav-footer-center">Sponsored by the <a href="https://www.palass.org">Palaeontological Association</a> and <br> the <a href="https://www.paleosoc.org">Paleontological Society</a></div>
     <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
   </div>
 </footer>

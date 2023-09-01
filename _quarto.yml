@@ -46,8 +46,6 @@ website:
         text: Organising Team
       - section: "Day 1: Workshop"
         contents:
-          - href: introduction.qmd
-            text: Introduction
           - href: acquisition.qmd
             text: Data acquisition
           - href: preparation.qmd
