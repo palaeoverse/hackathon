@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -56,8 +56,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-submit-button-title": "Submit"
   }
 }</script>
 
@@ -82,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./hackathon.html">Day 2: Hackathon</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -97,8 +96,8 @@ ul.task-list li input[type="checkbox"] {
       <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
-    <a href="https://github.com/palaeoverse-community" rel="" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/ThePalaeoverse" rel="" title="Twitter" class="quarto-navigation-tool px-1" aria-label="Twitter"><i class="bi bi-twitter"></i></a>
+    <a href="https://github.com/palaeoverse-community" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
+    <a href="https://twitter.com/ThePalaeoverse" title="Twitter" class="quarto-navigation-tool px-1" aria-label="Twitter"><i class="bi bi-twitter"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div>
@@ -234,6 +233,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objective-2" id="toc-objective-2" class="nav-link" data-scroll-target="#objective-2">Objective</a></li>
   <li><a href="#starting-points-to-consider-2" id="toc-starting-points-to-consider-2" class="nav-link" data-scroll-target="#starting-points-to-consider-2">Starting points to consider</a></li>
   </ul></li>
+  <li><a href="#brief-4-stack_plot" id="toc-brief-4-stack_plot" class="nav-link" data-scroll-target="#brief-4-stack_plot">Brief 4: stack_plot</a>
+  <ul class="collapse">
+  <li><a href="#context-3" id="toc-context-3" class="nav-link" data-scroll-target="#context-3">Context</a></li>
+  <li><a href="#objective-3" id="toc-objective-3" class="nav-link" data-scroll-target="#objective-3">Objective</a></li>
+  <li><a href="#starting-points-to-consider-3" id="toc-starting-points-to-consider-3" class="nav-link" data-scroll-target="#starting-points-to-consider-3">Starting points to consider</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/hackathon.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -323,6 +328,28 @@ ul.task-list li input[type="checkbox"] {
 <li>How should the abundances be ordered and visualised?</li>
 <li>What is a useful output format to use the abundances for further analysis, for example with the <code>vegan</code> package?</li>
 <li>How should data sets be handled that contain occurrences from different time intervals?</li>
+</ul>
+</section>
+</section>
+<section id="brief-4-stack_plot" class="level2">
+<h2 class="anchored" data-anchor-id="brief-4-stack_plot">Brief 4: stack_plot</h2>
+<section id="context-3" class="level3">
+<h3 class="anchored" data-anchor-id="context-3">Context</h3>
+<p>Visualising abundances, diversities or other metrics through time can be a challenge when showing several different groups in the same plot. Stacked area plots allow for a quick visual assessment of changing patterns.</p>
+</section>
+<section id="objective-3" class="level3">
+<h3 class="anchored" data-anchor-id="objective-3">Objective</h3>
+<ul>
+<li>Develop a function (e.g.&nbsp;<code>stack_plot</code>) which plots a metric like abundance for different groups, stacked on top of each other</li>
+</ul>
+</section>
+<section id="starting-points-to-consider-3" class="level3">
+<h3 class="anchored" data-anchor-id="starting-points-to-consider-3">Starting points to consider</h3>
+<ul>
+<li>What input data does the function expect?</li>
+<li>How does the function handle relative (summing to 1) and absolute metrics, and where can the legend be placed in either case?</li>
+<li>What defines the order in which different groups are stacked?</li>
+<li>What colour schemes could be used, and how should the colours be ordered for optimal visibility?</li>
 </ul>
 
 

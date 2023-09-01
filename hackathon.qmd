@@ -55,3 +55,21 @@ Summarising the abundances of taxa is fundamental for understanding occurrence d
 -   How should the abundances be ordered and visualised?
 -   What is a useful output format to use the abundances for further analysis, for example with the `vegan` package?
 -   How should data sets be handled that contain occurrences from different time intervals? 
+
+
+## Brief 4: stack_plot
+
+### Context
+
+Visualising abundances, diversities or other metrics through time can be a challenge when showing several different groups in the same plot. Stacked area plots allow for a quick visual assessment of changing patterns.
+
+### Objective
+
+-   Develop a function (e.g. `stack_plot`) which plots a metric like abundance for different groups, stacked on top of each other
+
+### Starting points to consider
+
+-   What input data does the function expect?
+-   How does the function handle relative (summing to 1) and absolute metrics, and where can the legend be placed in either case?
+-   What defines the order in which different groups are stacked?
+-   What colour schemes could be used, and how should the colours be ordered for optimal visibility?
