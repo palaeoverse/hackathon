@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -144,12 +178,6 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./introduction.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Introduction</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./acquisition.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data acquisition</span></a>
   </div>
@@ -226,7 +254,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
+  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
+  <ul class="collapse">
+  <li><a href="#arrival" id="toc-arrival" class="nav-link" data-scroll-target="#arrival">Arrival</a></li>
+  <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
+  <li><a href="#sponsors" id="toc-sponsors" class="nav-link" data-scroll-target="#sponsors">Sponsors</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/palaeoverse-community/hackathon/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/palaeoverse-community/hackathon/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -254,10 +287,29 @@ ul.task-list li input[type="checkbox"] {
 <section id="welcome" class="level1">
 <h1>Welcome</h1>
 <p>Welcome to the first edition of <strong>R for Palaeobiologists: Workshop and Hackathon</strong>. R is one of the most popular languages in the world of Data Science and has been widely adopted by the palaeobiology community to clean, analyse and plot data. General familiarity with R allows users to expand the potential of their research and automate routine tasks. Importantly, it allows researchers to improve the reproducibility of their research and document their analyses. The workshop component of this event will provide an introduction to data acquisition, preparation, and visualisation in R. The hackathon component of this event will provide the opportunity for attendees to work together in small focus groups to develop workflows, functions, and novel tools to address challenges in palaeobiology. This event provides an opportunity for attendees to work with different early career researchers and gain experience working collaboratively in R to generate reproducible research.</p>
+<section id="arrival" class="level2">
+<h2 class="anchored" data-anchor-id="arrival">Arrival</h2>
+<p>The event starts at 09:00 on the 7<sup>th</sup> September 2023 and will take place in Teaching Lab 1 (126), <a href="https://goo.gl/maps/CseD7br5SF9xLEQE6">Kathleen Lonsdale Building, University College London</a>. See <a href="./location.html">Getting Here</a> for more information.</p>
+<p>The full schedule for the event is available <a href="./schedule.html">here</a>.</p>
+</section>
+<section id="installation" class="level2">
+<h2 class="anchored" data-anchor-id="installation">Installation</h2>
+<p>Please ensure that you have the latest version of R (4.3.1) for the workshop, which can be downloaded <a href="https://cran.r-project.org/bin/windows/base/">here</a>. We also recommend installing the latest version of RStudio, which can be download <a href="https://posit.co/download/rstudio-desktop/">here</a>. To minimise any installation issues during the workshop and hackathon, please also install the following R packages:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"deeptime"</span>, <span class="st">"dplyr"</span>, <span class="st">"extrafont"</span>, <span class="st">"ggplot2"</span>, <span class="st">"ggpubr"</span>, <span class="st">"maps"</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>                 <span class="st">"palaeoverse"</span>, <span class="st">"raster"</span>, <span class="st">"RColorBrewer"</span>, <span class="st">"rgplates"</span>, <span class="st">"rpaleoclim"</span>,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>                 <span class="st">"sf"</span>, <span class="st">"svglite"</span>, <span class="st">"terra"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="sponsors" class="level2">
+<h2 class="anchored" data-anchor-id="sponsors">Sponsors</h2>
 <p>This event is run by the <a href="https://palaeoverse.org">Palaeoverse</a> development team and sponsored by the <a href="https://www.palass.org">Palaeontological Association</a> through a Grant-in-Aid (PA-GA202203) and the <a href="https://www.paleosoc.org">Paleontological Society</a> through a small conference support grant.</p>
 <p><img src="images/logo.png" style="height:3cm"> <img src="images/palass-logo.png" style="height:3cm"> <img src="images/palsoc-logo.png" style="height:3cm"></p>
+<p>The <a href="https://www.palass.org">Palaeontological Association</a>, <a href="https://www.transmittingscience.com">Transmitting Science</a>, <a href="https://www.prstatistics.com">PRStatistics</a>, and <a href="https://www.jumpingrivers.com">Jumping Rivers</a> have also sponsored prizes for the hackathon.</p>
+<p><img src="images/palass-logo.png" style="height:2cm"> <img src="images/ts-logo.png" style="height:2cm"> &nbsp;&nbsp; <img src="images/pr-logo.png" style="height:1.5cm"> &nbsp;&nbsp; <img src="images/jr-logo.png" style="height:2cm"></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
