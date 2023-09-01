@@ -137,7 +137,7 @@
     "href": "index.html#installation",
     "title": "R for Palaeobiologists: Workshop and Hackathon",
     "section": "Installation",
-    "text": "Installation\nPlease ensure that you have the latest version of R (4.3.1) for the workshop, which can be downloaded here. We also recommend installing the latest version of RStudio, which can be download here. To minimise any installation issues during the workshop and hackathon, please also install the following R packages:\n\ninstall.packages(\"deeptime\", \"dplyr\", \"extrafont\", \"ggplot2\", \"ggpubr\", \"maps\",\n                 \"palaeoverse\", \"raster\", \"RColorBrewer\", \"rgplates\", \"rpaleoclim\",\n                 \"sf\", \"svglite\", \"terra\")"
+    "text": "Installation\nPlease ensure that you have the latest version of R (4.3.1) for the workshop, which can be downloaded here. We also recommend installing the latest version of RStudio, which can be download here. To minimise any installation issues during the workshop and hackathon, please also install the following R packages:\n\ninstall.packages(\"deeptime\", \"dplyr\", \"extrafont\", \"ggplot2\", \"ggpubr\", \n                 \"maps\", \"microbenchmark\", \"palaeoverse\", \"profvis\",\"raster\", \n                 \"RColorBrewer\", \"rgplates\", \"roxygen2\", \"rpaleoclim\",\n                 \"sf\", \"svglite\", \"terra\", \"testthat\", \"usethis\")"
   },
   {
     "objectID": "index.html#sponsors",
