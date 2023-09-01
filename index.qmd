@@ -21,10 +21,12 @@ Please ensure that you have the latest version of R (4.3.1) for the workshop, wh
 
 ```{R}
 #| eval: false
-install.packages("deeptime", "dplyr", "extrafont", "ggplot2", "ggpubr", "maps",
-                 "palaeoverse", "raster", "RColorBrewer", "rgplates", "rpaleoclim",
-                 "sf", "svglite", "terra")
+install.packages("deeptime", "dplyr", "extrafont", "ggplot2", "ggpubr", 
+                 "maps", "microbenchmark", "palaeoverse", "profvis","raster", 
+                 "RColorBrewer", "rgplates", "roxygen2", "rpaleoclim",
+                 "sf", "svglite", "terra", "testthat", "usethis")
 ```
+
 
 ## Sponsors
 
