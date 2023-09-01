@@ -135,23 +135,23 @@
   {
     "objectID": "visualisation.html",
     "href": "visualisation.html",
-    "title": "Data visualisation",
+    "title": "Data visualization",
     "section": "",
-    "text": "This unit of the workshop covers different tools for visualising fossil occurrence data.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with these resources, please contact them here and here."
+    "text": "This unit of the workshop covers the basics of data visualization. The theory includes basic design principles, such as colour and type, how to choose graphs according to your data, file types to export your graphs in, and common mistakes to avoid in data visualization. The practical focuses on visualizing data using ggplot2, as well as plotting vector and raster spatial data. The slides for the unit are available here and provide an introduction to some of the most commonly used resources. The code for the ggplot2 tutorial is available here, as well as for the spatial data tutorial here.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with the tutorials, please contact Sofía here. If you have any questions or further enquiries on the theory covered, please contact Miranta here."
   },
   {
     "objectID": "visualisation.html#summary",
     "href": "visualisation.html#summary",
-    "title": "Data visualisation",
+    "title": "Data visualization",
     "section": "",
-    "text": "This unit of the workshop covers different tools for visualising fossil occurrence data.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with these resources, please contact them here and here."
+    "text": "This unit of the workshop covers the basics of data visualization. The theory includes basic design principles, such as colour and type, how to choose graphs according to your data, file types to export your graphs in, and common mistakes to avoid in data visualization. The practical focuses on visualizing data using ggplot2, as well as plotting vector and raster spatial data. The slides for the unit are available here and provide an introduction to some of the most commonly used resources. The code for the ggplot2 tutorial is available here, as well as for the spatial data tutorial here.\nThis session is led by Sofía Galván and Miranta Kouvari. If you encounter any issues while working with the tutorials, please contact Sofía here. If you have any questions or further enquiries on the theory covered, please contact Miranta here."
   },
   {
     "objectID": "visualisation.html#resources",
     "href": "visualisation.html#resources",
-    "title": "Data visualisation",
+    "title": "Data visualization",
     "section": "Resources",
-    "text": "Resources\n\nData visualisation 0: base R html\nData visualisation 0: base R Rmd\nData visualisation 1: ggplot2 html\nData visualisation 1: ggplot2 Rmd\nData visualisation 2: spatial data html\nData visualisation 2: spatial data Rmd\n\n\n\n\nMore resources for data visualisation"
+    "text": "Resources\n\nData visualization slides\nData visualization 0: base R html\nData visualization 0: base R Rmd\nData visualization 1: ggplot2 html\nData visualization 1: ggplot2 Rmd\nData visualization 2: spatial data html\nData visualization 2: spatial data Rmd\n\n\n\n\nMore resources for data visualisation"
   },
   {
     "objectID": "resources.html",
