@@ -312,13 +312,13 @@
     "href": "functions.html",
     "title": "Writing functions in R",
     "section": "",
-    "text": "This unit of the workshop covers the writing of R functions. It consists of four themes, each with a small practical:\n\nFunction basics (e.g. the structure of functions)\nBest practices (e.g. documentation with roxygen2)\nTesting and debugging (e.g. the testthat package)\nAdvanced tools (e.g. profiling)\n\nThe slides for the workshop and practicals are here: Writing functions in R\nThis session is led by Kilian Eichenseer. If you encounter any issues while working with the material, please contact him here."
+    "text": "This unit of the workshop covers the writing of R functions. It consists of four themes, each with a small practical:\n\nFunction basics (e.g. the structure of functions)\nBest practices (e.g. documentation with roxygen2)\nTesting and debugging (e.g. the testthat package)\nAdvanced tools (e.g. profiling)\n\nThe slides for the workshop, including the instructions for the practicals, can be found here:\n\nWriting functions in R - slides\n\nHere is a link the source code that was used to generate the presentation:\n\nWriting functions in R - source code\n\nThis session is led by Kilian Eichenseer. If you encounter any issues while working with the material, please contact him here."
   },
   {
     "objectID": "functions.html#summary",
     "href": "functions.html#summary",
     "title": "Writing functions in R",
     "section": "",
-    "text": "This unit of the workshop covers the writing of R functions. It consists of four themes, each with a small practical:\n\nFunction basics (e.g. the structure of functions)\nBest practices (e.g. documentation with roxygen2)\nTesting and debugging (e.g. the testthat package)\nAdvanced tools (e.g. profiling)\n\nThe slides for the workshop and practicals are here: Writing functions in R\nThis session is led by Kilian Eichenseer. If you encounter any issues while working with the material, please contact him here."
+    "text": "This unit of the workshop covers the writing of R functions. It consists of four themes, each with a small practical:\n\nFunction basics (e.g. the structure of functions)\nBest practices (e.g. documentation with roxygen2)\nTesting and debugging (e.g. the testthat package)\nAdvanced tools (e.g. profiling)\n\nThe slides for the workshop, including the instructions for the practicals, can be found here:\n\nWriting functions in R - slides\n\nHere is a link the source code that was used to generate the presentation:\n\nWriting functions in R - source code\n\nThis session is led by Kilian Eichenseer. If you encounter any issues while working with the material, please contact him here."
   }
 ]
