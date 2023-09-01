@@ -56,7 +56,6 @@ Summarising the abundances of taxa is fundamental for understanding occurrence d
 -   What is a useful output format to use the abundances for further analysis, for example with the `vegan` package?
 -   How should data sets be handled that contain occurrences from different time intervals? 
 
-
 ## Brief 4: stack_plot
 
 ### Context
@@ -73,3 +72,21 @@ Visualising abundances, diversities or other metrics through time can be a chall
 -   How does the function handle relative (summing to 1) and absolute metrics, and where can the legend be placed in either case?
 -   What defines the order in which different groups are stacked?
 -   What colour schemes could be used, and how should the colours be ordered for optimal visibility?
+
+## Brief 5: lat_bins
+
+### Context
+
+Palaeobiologists are often interested in latitudinal trends through time. To study such patterns, fossil occurrence data are typically binned into latitudinal bins (e.g. `palaeoverse::lat_bins` and `palaeoverse::bin_lat`). At the equator, a degree of longitude is the same as a degree of latitude, approximately 111 km. However, this length decreases as you move away from the equator. Consequently, standard latitudinal bins (e.g. 5º bins) have an unequal amount of area within each bin.
+
+### Objective
+
+- Develop a function (e.g. `lat_bins`) which creates equal-area latitudinal bins
+
+### Starting points to consider 
+
+- How might users want to define their bins? Number of bins or size of bins? 
+- Do users want the entire latitudinal range?
+- What output might users want?
+- The Earth is not a perfect sphere
+- The distribution of land and ocean area changes through time
