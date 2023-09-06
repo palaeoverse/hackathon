@@ -4,7 +4,7 @@ title: "Hackathon"
 
 # Briefs
 
-We have prepared four project briefs for the hackathon. You and your group are free to choose whichever brief you wish to work on (first-come, first-served basis). Alternatively, you are free to work on your own project idea.
+The aim of the hackathon is to develop a function to clean, explore and/or visualise palaeontological data. In doing this, you will also gain experience of collaborative and reproducible coding. We have prepared four project briefs for the hackathon. You and your group are free to choose whichever brief you wish to work on (first-come, first-served basis). Alternatively, you are free to work on your own project idea.
 
 ## Brief 1: geo_check
 
@@ -90,3 +90,16 @@ Palaeobiologists are often interested in latitudinal trends through time. To stu
 - What output might users want?
 - The Earth is not a perfect sphere
 - The distribution of land and ocean area changes through time
+
+## Brief 6: your own idea!
+
+# Presentations
+
+At the end of the hackathon, each group will give a 10 minute presentation, followed by 5 minutes of questions. In the presentation, you should include:
+- Outline of the goal
+- Description of the inputs and outputs
+- Brief code walk-through
+- Example usage
+- Contributions of each group member
+
+Voting will then take place to determine the winning team.
