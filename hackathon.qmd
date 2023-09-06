@@ -93,9 +93,20 @@ Palaeobiologists are often interested in latitudinal trends through time. To stu
 
 ## Brief 6: your own idea!
 
+# Tips and suggestions
+
+You can view the palaeoverse standards and structure for code [here](https://palaeoverse.palaeoverse.org/articles/structure-and-standards.html).
+
+Some platforms you may wish to use for collaborative work include:
+
+- [Posit Cloud](https://posit.cloud)
+- [GitHub](https://docs.github.com/en)
+- Google Docs
+
 # Presentations
 
 At the end of the hackathon, each group will give a 10 minute presentation, followed by 5 minutes of questions. In the presentation, you should include:
+
 - Outline of the goal
 - Description of the inputs and outputs
 - Brief code walk-through
