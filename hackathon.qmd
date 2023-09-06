@@ -4,7 +4,7 @@ title: "Hackathon"
 
 # Briefs
 
-The aim of the hackathon is to develop a function to clean, explore and/or visualise palaeontological data. In doing this, you will also gain experience of collaborative and reproducible coding. We have prepared four project briefs for the hackathon. You and your group are free to choose whichever brief you wish to work on (first-come, first-served basis). Alternatively, you are free to work on your own project idea.
+The aim of the hackathon is to develop a function to clean, explore and/or visualise palaeontological data. In doing this, you will also gain experience of collaborative and reproducible coding. We have prepared five project briefs for the hackathon. You and your group are free to choose whichever brief you wish to work on (first-come, first-served basis). Alternatively, you are free to work on your own project idea.
 
 ## Brief 1: geo_check
 
