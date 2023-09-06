@@ -73,6 +73,7 @@ Style and Documentation
 
 -   [Tidyverse's style guide](https://style.tidyverse.org/index.html)
 -   [Google’s R style guide](https://google.github.io/styleguide/Rguide.html)
+-   [lintr](https://cran.r-project.org/web/packages/lintr/vignettes/lintr.html)
 -   [Documentation with roxygen2](https://roxygen2.r-lib.org/)
 
 Testing
