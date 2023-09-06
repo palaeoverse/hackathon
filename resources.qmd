@@ -64,7 +64,33 @@ These resources cover the various ways in which data can be visualised, from the
 
 ### Writing Functions
 
-These resources cover how to write functions in R
+R and function development
+
+-   [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+-   [Mastering software development in R - functions](https://bookdown.org/rdpeng/RProgDA/functions.html)
+
+Style and Documentation
+
+-   [Tidyverse's style guide](https://style.tidyverse.org/index.html)
+-   [Google’s R style guide](https://google.github.io/styleguide/Rguide.html)
+-   [Documentation with roxygen2](https://roxygen2.r-lib.org/)
+
+Testing
+
+-   [Testing basics](https://r-pkgs.org/testing-basics.html)
+-   [testthat](https://testthat.r-lib.org/)
+
+Environment
+
+-   [Environments](https://adv-r.hadley.nz/environments.html)
+-   [Scoping rules](https://bookdown.org/rdpeng/rprogdatascience/scoping-rules-of-r.html)
+
+Efficiency
+
+-   [Best coding practices in R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/speedtips.html)
+-   [R tools](https://cran.r-project.org/bin/windows/Rtools/)
+-   [Rcpp: Seamless R and C++ Integration](https://dirk.eddelbuettel.com/code/rcpp.html)
+-   [Avanced R](http://adv-r.had.co.nz/Rcpp.html) 
 
 ### General Palaeontology Resources
 
