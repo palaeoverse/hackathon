@@ -22,7 +22,7 @@ These resources cover the acquisition of data for palaeontological analyses, inc
 
 -   [Paleobiology Database](http://paleobiodb.org)
 
--   [Geobiodiversity database](http://giobiodiversity.com)
+-   [Geobiodiversity database](http://geobiodiversity.com)
 
 -   [Neotoma](http://neotomadb.org)
 
@@ -32,9 +32,9 @@ These resources cover the acquisition of data for palaeontological analyses, inc
 
 -   [Neptune](http://nsb.mfn-berlin.de)
 
--   [BioDeepTime](http://dio.org/10.1111/geb.13735)
+-   [BioDeepTime](https://doi.org/10.1111/geb.13735)
 
--   [Phylacine](http://megapast2future.github.io/PPHYLACINE_1.2/)
+-   [Phylacine](http://megapast2future.github.io/PHYLACINE_1.2/)
 
 -   [PARED](http://paleo-reefs.pal.uni-Erlangen.de)
 
