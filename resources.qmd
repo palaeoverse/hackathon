@@ -38,19 +38,49 @@ These resources cover the acquisition of data for palaeontological analyses, inc
 
 -   [PARED](http://paleo-reefs.pal.uni-Erlangen.de)
 
-#### Covariate Datasets
+#### Other Relevant Datasets
 
 -   [Macrostrat](http://macrostrat.org)
 
+-   [Mindat](http://mindat.org)
+
 -   [USGS Geological Maps of North America](https://mrdata.usgs.gov/geology/state/)
 
--   [WorldClim](http://worldclim.org)
+-   [Global Maximum Green Vegetation Fraction](https://doi.org/10.1175/JAMC-D-13-0356.1)
+
+-   [1km Resolution Global Digital Elevation Map](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-global-30-arc-second-elevation-gtopo30?qt-science_center_objects=0#qt-science_center_objects)
+
+-   [WorldClim](http://worldclim.org) - can be accessed via the 'getData' function of the 'raster' package.
 
 -   [ESA WorldCover](http://esa-worldcover.org/en)
+
+#### Palaeogeographies
+
+-   [Deep Time Maps](https://deeptimemaps.com/about-us/)
+
+-   [Paleomap Project](http://www.scotese.com/)
+
+#### Other places to find datasets
+
+-   [Zenodo](https://zenodo.org/)
+
+#### Relevant Packages
+
+
 
 ### Data Preparation
 
 These resources cover the preparation of data for palaeontological analyses, including data cleaning, organisation and transformation.
+
+#### General Packages
+
+#### Palaeontological Packages
+
+-   [Palaeoverse](https://doi.org/10.1111/2041-210X.14099)
+
+-   [CoordinateCleaner](https://doi.org/10.1111/2041-210X.13152)
+
+-   [FossilBrush](https://doi.org/10.1111/2041-210X.13966)
 
 ### Data Visualisation
 
@@ -65,6 +95,24 @@ These resources cover the various ways in which data can be visualised, from the
 -   [COBLIS (Colour Blindness Simulator)](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 -   [Colorhunt](https://colorhunt.co/)
+
+-   [Inkscape](https://inkscape.org/)
+
+-   [Gnu Image Manipulation Program (GIMP)](https://www.gimp.org/)
+
+#### Packages
+
+-   ggplot2
+-   lattice
+-   scatterplot3d
+-   highcharter
+-   plotly
+-   Rgl
+-   viridis
+-   RColorBrewer
+-   wesanderson
+-   colorspace
+-   ggsci
 
 ### Writing Functions
 
@@ -95,7 +143,7 @@ Efficiency
 -   [Best coding practices in R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/speedtips.html)
 -   [R tools](https://cran.r-project.org/bin/windows/Rtools/)
 -   [Rcpp: Seamless R and C++ Integration](https://dirk.eddelbuettel.com/code/rcpp.html)
--   [Avanced R](http://adv-r.had.co.nz/Rcpp.html) 
+-   [Advanced R](http://adv-r.had.co.nz/Rcpp.html) 
 
 ### General Palaeontology Resources
 
@@ -106,6 +154,28 @@ Efficiency
 -   [Paleonet](https://paleonet.org/)
 
 ### General Programming Resources
+
+#### CRAN Task Views
+
+-   [Phylogenetics](https://cran.r-project.org/web/views/Phylogenetics.html)
+
+-   [Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+
+-   [Ecological and Environmental Data](https://cran.r-project.org/web/views/Environmetrics.html)
+
+-   [Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
+
+#### Free R Books
+
+-   [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)
+
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
+-   [R Packages](https://r-pkgs.org/)
+
+-   [Cookbook for R](http://www.cookbook-r.com/)
+
+-   [Geocomputation with R](http://r.geocompx.org)
 
 ### \--
 
